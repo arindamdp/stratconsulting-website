@@ -1,0 +1,50 @@
+# GoDaddy specific files
+.htaccess.bak
+error_log
+.ftpquota
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.cache
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Thumbnails
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Backup files
+*.bak
+*.backup
+*_backup
+
+# FTP client files
+.ftpconfig
+sftp-config.json
+
+# Environment files
+.env
+.env.local
+
+# Database dumps
+*.sql
+*.sqlite
+
+# PHP session files
+/tmp/
+/sessions/
+
+# WordPress specific (if applicable)
+wp-config.php

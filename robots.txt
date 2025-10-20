@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stratconsulting.co.uk/sitemap.xml
